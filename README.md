@@ -57,6 +57,16 @@ From building high-performance microservices to optimizing cloud-native solution
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gmitaros&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23"/>
 <img width="48%" src="https://streak-stats.demolab.com/?user=gmitaros&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200"/>
 </p>
+<h3 align="left">GitHub Stats</h3>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gmitaros&theme=react&hide_title=false&hide_rank=false&show_icons=true&count_private=true" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=gmitaros&theme=react" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gmitaros&theme=react&layout=compact&langs_count=6" alt="GitHub top languages Card" />
+</p>
 
 <p align="left">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmitaros&theme=react&layout=compact&langs_count=6&card_width=400"/>
