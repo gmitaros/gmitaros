@@ -31,8 +31,8 @@ From building high-performance microservices to optimizing cloud-native solution
 <h3 align="left">Rapid Fire</h3>
 
 - 💼 I'm currently working on: **🚀 Building [PixChoice](https://pixchoice.com)**
-- 🌱 I'm currently learning: **📚 Exploring React and modern frontend architecture**
-- 💬 Ask me about: **💡 Java, Spring Boot, Kafka, JavaScript, React, Node.js, MongoDB, REST APIs, and distributed systems**
+- 🌱 I'm currently learning: **📚 React and modern frontend architecture — keeping up to date with agentic coding and Codex workflows**
+- 💬 Ask me about: **💡 Java, Spring Boot, Kafka, JavaScript, React, MongoDB, REST APIs, and distributed systems**
 - ⚡ Fun fact: **🎢 I once built a system that processed over 15 million Kafka messages per day handling bets in real-time. When I'm not optimizing systems, I'm learning Spanish and exploring ways to build scalable SaaS products.**
 
 <h3 align="left">Skills</h3>
