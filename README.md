@@ -1,7 +1,7 @@
 ![👋 Hi, my name is Giorgos Mitaros](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=gmitaros&label=Profile%20views&color=0e75b6&style=flat)
-[![Hire me on Toptal](https://img.shields.io/badge/Hire_me_on_Toptal-204ECF?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/developers/resume/giorgos-mitaros#mbR2oM)
+
 
 <div id="toc">
   <ul align="center" style="list-style: none">
